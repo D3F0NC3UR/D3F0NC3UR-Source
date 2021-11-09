@@ -23,13 +23,16 @@
       ]
     },
     {
-      "name": "Infuse Pro",
+      "name": "Infuse Pro 7",
       "bundleIdentifier": "net.nerd.iNDS-true",
-      "developerName": "iNDS-Team",
-      "subtitle": "shit",
+      "developerName": "Firecore, LLC",
+      "subtitle": "Watch and listen to media of nearly any format.",
       "version": "7.2.1",
-      "versionDate": "2020-03-24T14:30:00+05:30",
-      "versionDescription": "Fixes Darkmode, and other Improvemnts",
+      "versionDate": "2021-11-24T14:30:00+05:30",
+      "versionDescription": "Amélioration de la performance et de la stabilité de
+l'application
+Pour les détails complets, visitez firecore.com/releases
+Merci beaucoup d'utiliser Infuse!",
       "downloadURL": "https://github.com/D3F0NC3UR/dickiesource/blob/main/ipa/Infuse%20Pro/Infuse%20Pro%207.2.1.ipa?raw=true",
       "localizedDescription": "iNDS is a Nintendo DS emulator, based on nds4ios. With More features.",
       "iconURL": "https://bunduuk.github.io/altstore-source/img/iNDS/icon.png",
