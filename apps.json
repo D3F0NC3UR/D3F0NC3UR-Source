@@ -82,20 +82,23 @@
     },
     {
       "name": "Termius++",
-      "bundleIdentifier": "com.electrateam.chimera",
+      "bundleIdentifier": "com.termius.app",
       "developerName": "Termius Corporation",
       "subtitle": "Termius ++",
       "version": "4.5.4",
       "versionDate": "2020-03-24T14:30:00-07:00",
       "versionDescription": "No Changes Recorded",
       "downloadURL": "https://github.com/D3F0NC3UR/dickiesource/releases/download/Start/Termius++.4.5.4.ipa",
-      "localizedDescription": "Jailbreak iOS 12.0 - 12.2 and iOS 12.4",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/Chimera/icon.png",
+      "localizedDescription": "SFTP, Mosh, Telnet, E2EE sync",
+      "iconURL": "https://i.imgur.com/X1T6zz1.jpg",
       "tintColor": "9af1f3",
       "size": 91357184,
       "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/Chimera/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/Chimera/screen2.png"
+        "https://i.imgur.com/82fDMb8.jpg",
+        "https://i.imgur.com/lzgCf3r.jpg",
+        "https://i.imgur.com/LSFs7pq.jpg",
+        "https://i.imgur.com/kDoTgxF.jpg",
+        "https://i.imgur.com/K18fIVJ.jpg"
       ]
     },
     {
