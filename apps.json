@@ -99,7 +99,7 @@
         "https://i.imgur.com/LSFs7pq.jpg",
         "https://i.imgur.com/kDoTgxF.jpg",
         "https://i.imgur.com/K18fIVJ.jpg"
-      ]
+        ]
     },
     {
       "name": "Watusi for WhatsApp",
@@ -202,7 +202,7 @@
 			"identifier": "Welcome",
 			"caption": "Hi! Welcome to Dickie's AltStore Repo!",
 			"tintColor": "e17e00",
-			"url": "",
+			"url": "https://github.com/D3F0NC3UR/dickiesource/tree/main",
 			"date": "2021-11-08",
 			"notify": false
 		},
