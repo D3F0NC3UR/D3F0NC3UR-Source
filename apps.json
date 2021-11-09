@@ -24,15 +24,15 @@
     },
     {
       "name": "Infuse Pro 7",
-      "bundleIdentifier": "net.nerd.iNDS-true",
+      "bundleIdentifier": "com.infuse7.app",
       "developerName": "Firecore, LLC",
       "subtitle": "Watch and listen to media of nearly any format.",
       "version": "7.2.1",
-      "versionDate": "2020-03-24T14:30:00+05:30",
+      "versionDate": "2021-10-24T14:30:00+05:30",
       "versionDescription": "Amélioration de la performance et de la stabilité de l'application Pour les détails complets, visitez firecore.com/releases Merci beaucoup d'utiliser Infuse!",
       "downloadURL": "https://dickiecloud.win/index.php/s/ZSZ39JCNyJCbpCb",
       "localizedDescription": "iNDS is a Nintendo DS emulator, based on nds4ios. With More features.",
-      "iconURL": "https://images.app.goo.gl/PJ5VHhmTzCx58HTi9",
+      "iconURL": "https://images.app.goo.gl/PJ5VHhmTzCx58HTi9.png",
       "tintColor": "f36409",
       "size": 8576690,
       "screenshotURLs": [
