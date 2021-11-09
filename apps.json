@@ -23,11 +23,11 @@
       ]
     },
     {
-      "name": "iNDS",
+      "name": "Infuse Pro",
       "bundleIdentifier": "net.nerd.iNDS-true",
       "developerName": "iNDS-Team",
       "subtitle": "The reveal of the Nintendo DS emualtor",
-      "version": "1.10.7",
+      "version": "7.2.1",
       "versionDate": "2020-03-24T14:30:00+05:30",
       "versionDescription": "Fixes Darkmode, and other Improvemnts",
       "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/iNDS/iNDS.ipa?raw=true",
