@@ -1,244 +1,44 @@
 {
-  "name": "Dickie’s AltStore",
-  "identifier": "com.dickie.altstore",
+  "name": "D3F0NC3UR Source",
+  "identifier": "com.D3F0NC3UR.mysource",
+  "sourceURL": "https://raw.githubusercontent.com/D3F0NC3UR/D3F0NC3UR-Source/main/apps.json",
   "apps": [
     {
-      "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "subtitle": "iOS torrent client app",
-      "version": "1.8",
-      "versionDate": "2020-03-24T14:30:00+05:30",
-      "versionDescription": "- Most of the application was rewritten from scratch, no more memory leaks\n- Significantly improved stability of the app\n- Memory management implemented\n- Memory allocation for files before downloading\n- Libtorrent updated to 1.2.6\n- UI improvements, noticeable and not so much\n- Added integration with Patreon",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/iTorrent/iTorrent.ipa?raw=true",
-      "localizedDescription": "iTorrent is a torrent client for iOS with Files app support.",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/iTorrent/icon.png",
-      "tintColor": "a1261b",
-      "size": 20132659,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/iTorrent/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/iTorrent/screen2.png",
-        "https://bunduuk.github.io/altstore-source/img/iTorrent/screen3.png",
-		    "https://bunduuk.github.io/altstore-source/img/iTorrent/screen4.png"
-      ]
-    },
-    {
-      "name": "Infuse Pro 7",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "Firecore, LLC",
-      "subtitle": "Un lecteur vidéo élégant",
-      "version": "7.2.1",
-      "versionDate": "2021-11-01",
-      "versionDescription": "Amélioration de la performance et de la stabilité de l'application Pour les détails complets, visitez firecore.com/releases Merci beaucoup d'utiliser Infuse!",
-      "downloadURL": "https://github.com/D3F0NC3UR/dickiesource/releases/download/Start/Infuse.Pro.7.2.1.ipa",
-      "localizedDescription": "pro features unlocked",
-      "iconURL": "https://i.imgur.com/zd2azg7.jpg",
-      "tintColor": "f36409",
-      "size": 8576690,
-      "screenshotURLs": [ "https://i.imgur.com/UzQigYl.jpg",
-        "https://i.imgur.com/NvZc7Ch.jpg",
-        "https://i.imgur.com/e3wdV0k.jpg",
-        "https://i.imgur.com/rH7KWFR.jpg",
-        "https://i.imgur.com/E33DDEE.jpg"
-        
-      ]
-    },
-    {
-      "name": "Spotify++",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "@iJulioverne",
-      "subtitle": "Pro unlocked",
-      "version": "8.6.42",
-      "versionDate": "2021-10-24",
-      "versionDescription": "No Changes Recorded",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/Spotify/Spotify.ipa?raw=true",
-      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
-      "iconURL": "https://i.imgur.com/HTmr9qS.jpg",
-      "tintColor": "101216",
-      "size": 62287872,
-      "screenshotURLs": [
-        "https://i.imgur.com/cOr1PHb.jpg",
-        "https://i.imgur.com/n2IY3Zm.jpg",
-        "https://i.imgur.com/sErfkZY.jpg",
-        "https://i.imgur.com/BYyhxES.jpg"
-      ]
-    },
-    {
-      "name": "YouTube++",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Unlimapps",
-      "subtitle": "Youtube Premium Free",
-      "version": "13.02.9",
-      "versionDate": "2020-03-24T14:30:00-07:00",
-      "versionDescription": "No Changes Recorded",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/youtube/youtube.ipa?raw=true",
-      "localizedDescription": "YouTube Premium Features Free!",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/youtube/icon.png",
-      "tintColor": "f00b00",
-      "size": 96894976,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/youtube/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/youtube/screen2.png"
-      ]
-    },
-    {
       "name": "Termius++",
-      "bundleIdentifier": "com.termius.app",
-      "developerName": "Termius Corporation",
-      "subtitle": "SFTP Mosh Telnet E2EE sync",
+      "bundleIdentifier": "syto203.Termius.PP",
+      "developerName": "syto203",
+      "subtitle": "The newest and greatest app around.",
       "version": "4.5.4",
-      "versionDate": "2020-03-24T14:30:00-07:00",
-      "versionDescription": "No Changes Recorded",
-      "downloadURL": "https://github.com/D3F0NC3UR/dickiesource/releases/download/Start/Termius++.4.5.4.ipa",
-      "localizedDescription": "Pro unlocked",
+      "versionDate": "2020-04-21",
+      "versionDescription": "Squashed some bugs, made some new bugs.",
+      "downloadURL": "https://github.com/D3F0NC3UR/D3F0NC3UR-Source/releases/download/Start/Termius%2B%2B.4.5.4.ipa",
+      "localizedDescription": "Features include:\n\n• Cool graphics\n• Top notch performance\n• Satisfying interactions",
       "iconURL": "https://i.imgur.com/X1T6zz1.jpg",
-      "tintColor": "9af1f3",
-      "size": 91357184,
+      "tintColor": "8A28F7",
+      "size": 857669,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows you to use your photo library to set your profile image."
+        }
+      ],
       "screenshotURLs": [
-        "https://i.imgur.com/82fDMb8.jpg",
-        "https://i.imgur.com/lzgCf3r.jpg",
-        "https://i.imgur.com/LSFs7pq.jpg",
-        "https://i.imgur.com/kDoTgxF.jpg",
-        "https://i.imgur.com/K18fIVJ.jpg"
-        ]
-    },
-    {
-      "name": "Watusi for WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "Fouad Raheb",
-      "subtitle": "Get more features in WhatsApp",
-      "version": "2.20.51",
-      "versionDate": "2020-03-24T14:30:00-07:00",
-      "versionDescription": "No changes recorded",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/WhatsApp/WhatsApp.ipa?raw=true",
-      "localizedDescription": "WhatsApp Watusi brings a bunch of useful new features to WhatsApp such as:\n\n - Disable read receipts\n - Freeze your last seen status\n - Disable delivery and typing indicators\n - Select unlimited number of photos to send\n - Password-protect the app\n - Call recorder\n - Lock chats\n - Enables send button while offline\n - Customization of the app's user interface",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/WhatsApp/icon.png",
-      "tintColor": "0af309",
-      "size": 89559040,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen2.png",
-        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen3.png"
-      ]
-    },
-    {
-      "name": "Watusi for WhatsApp Duplicate",
-      "bundleIdentifier": "com.fouadraheb.watusi",
-      "developerName": "Fouad Raheb",
-      "subtitle": "Get more features in WhatsApp with Duplicate",
-      "version": "2.20.51",
-      "versionDate": "2020-03-24T14:30:00-07:00",
-      "versionDescription": "No changes recorded",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/WhatsAppDuplicate/WhatsAppDuplicate.ipa?raw=true",
-      "localizedDescription": "Option to have another WhatsApp\n\n WhatsApp Watusi brings a bunch of useful new features to WhatsApp such as:\n\n - Disable read receipts\n - Freeze your last seen status\n - Disable delivery and typing indicators\n - Select unlimited number of photos to send\n - Password-protect the app\n - Call recorder\n - Lock chats\n - Enables send button while offline\n - Customization of the app's user interface",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/WhatsApp/icon.png",
-      "tintColor": "0af309",
-      "size": 89559040,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen2.png",
-        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen3.png"
-      ]
-    },
-    {
-      "name": "FilzaEscaped 13.4.1",
-      "bundleIdentifier": "com.dry05.filzaescaped11-12",
-      "developerName": "@AppleDry05",
-      "subtitle": "File Explorer for iOS",
-      "version": "13.4.1",
-      "versionDate": "2020-5-02",
-      "versionDescription": "No changes recorded",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/FilzaEscaped/FilzaEscaped13.4.1.ipa?raw=true",
-      "localizedDescription": "Filza for non jailbroken devices, works with iOS 13.4.1 (older versions hasn’t tested yet), should support devices!",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/FilzaEscaped/icon.png",
-      "tintColor": "00ffd9",
-      "size": 14581760,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/FilzaEscaped/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/FilzaEscaped/screen2.png",
-        "https://bunduuk.github.io/altstore-source/img/FilzaEscaped/screen3.png",
-        "https://bunduuk.github.io/altstore-source/img/FilzaEscaped/screen4.png"
-      ]
-    },
-    {
-      "name": "RetroArch",
-      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
-      "developerName": "libretro",
-      "subtitle": "All-In-One Retro Console Emulator",
-      "version": "1.8.7",
-      "versionDate": "2020-05-7T06:41:00-05:30",
-      "versionDescription": "No changes recorded",
-      "downloadURL": "https://buildbot.libretro.com/stable/1.8.7/apple/ios/RetroArch.ipa",
-      "localizedDescription": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/RetroArch/icon.png",
-      "tintColor": "000000",
-      "size": 252620800,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/RetroArch/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/RetroArch/screen2.png"
-      ]
-    },
-	{
-      "name": "Lensa: Photo Editor",
-      "bundleIdentifier": "com.lensa.app",
-      "developerName": "Prisma Labs, Inc.",
-      "subtitle": "One touch Photo Editor",
-      "version": "2.0.7",
-      "versionDate": "2020-5-02",
-      "versionDescription": "No changes recorded",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/Lensa/Lensa2.0.7.ipa?raw=true",
-      "localizedDescription": "Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing tools. We bring you the simplest, yet the most practical mobile app to date for perfecting your selfies on the go. So, if there’s anything you think should be corrected in your selfie, you now have this amazing, simple app to help you. To unlock unlimited photos, tap on purchase and then cancel!",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/Lensa/icon.png",
-      "tintColor": "00ffd9",
-      "size": 49208000,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/Lensa/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/Lensa/screen2.png"
-      ]
+        "https://myapp.com/assets/screen0.png"
+      ],
+      "beta": false
     }
   ],
   "news": [
-  	  		{
-			"title": "Hi, Dickie's AltStore!",
-			"identifier": "Welcome",
-			"caption": "Hi! Welcome to Dickie's AltStore Repo!",
-			"tintColor": "e17e00",
-			"url": "https://github.com/D3F0NC3UR/dickiesource/tree/main",
-			"date": "2021-11-08",
-			"notify": false
-		},
     {
-      "title": "unc0ver is ready!",
-      "identifier": "News_Change_3",
-      "caption": "the most most advanced jailbreak tool yet ",
-      "tintColor": "5a605c",
-      "imageURL": "https://bunduuk.github.io/altstore-source/img/unc0ver/news.png",
-      "appID": "science.xnu.undecimus",
-      "date": "2020-03-22",
-      "notify": false
-    },
-    {
-      "title": "Play old Classic Again!",
-      "identifier": "News_Change_2",
-      "caption": "iNDS is a great Nintendo DS Emulator for iOS devices",
-      "tintColor": "f36409",
-      "imageURL": "https://bunduuk.github.io/altstore-source/img/iNDS/news.png",
-      "appID": "net.nerd.iNDS-true",
-      "date": "2020-03-08",
-      "notify": false
-    },
-    {
-      "title": "Feel the beat",
-      "identifier": "News_Change_1",
-      "caption": "Enjoy No ads in spotify for free",
-      "tintColor": "101216",
-      "imageURL": "https://bunduuk.github.io/altstore-source/img/Spotify/news.png",
-      "appID": "com.spotify.client",
-      "date": "2020-02-01",
+      "title": "My App Now Available!",
+      "identifier": "my-app-available-download",
+      "caption": "The app to beat all apps.",
+      "date": "2020-04-21",
+      "tintColor": "8A28F7",
+      "imageURL": "https://myapp.com/assets/news.png",
+      "url": "https://myapp.com",
+      "appID": "com.myname.myapp",
       "notify": false
     }
-  ],
-  "userInfo": {
-
-  }
+  ]
 }
