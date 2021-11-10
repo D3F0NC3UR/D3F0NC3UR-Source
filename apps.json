@@ -37,7 +37,7 @@
     "subtitle": "An elegant video player",
     "version": "7.2.1",
     "versionDate": "2021-04-21",
-    "versionDescription": "NEW\n\n Added support for Dolby Vision (Profile 5) in MKV\n Added horizontal/vertical scroll gestures for mouse or trackpad\n\n IMPROVED\n Improved video rendering performance\n Improved subtitle rendering performance\n Improved library navigation performance\n Improved playback  controls\n FIXED\n\n Fixed keyboard shortcuts\n Fixed presentation of embedded subtitles in quick settings\n Fixed rare crash after ff/rw\n Fixed crash when selecting a movie/episode/cast
+    "versionDescription": "NEW\n\n Added support for Dolby Vision Profile 5 in MKV\n Added horizontal vertical scroll gestures for mouse or trackpad\n\n IMPROVED\n Improved video rendering performance\n Improved subtitle rendering performance\n Improved library navigation performance\n Improved playback  controls\n FIXED\n\n Fixed keyboard shortcuts\n Fixed presentation of embedded subtitles in quick settings\n Fixed rare crash after ff rw\n Fixed crash when selecting a movie episode cast
 member\n Other minor fixes and improvements",
     "downloadURL": "https://github.com/D3F0NC3UR/D3F0NC3UR-Source/releases/download/Start/Infuse.Pro.7.2.1.ipa",
     "localizedDescription": "Features include:\n\n• Cool graphics\n• Top notch performance\n• Satisfying interactions",
